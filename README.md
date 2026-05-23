@@ -1,4 +1,4 @@
-# Occupational-Risk-And-Probability
+# 分类-职业风险自动 & 聚类-职业概率预测
 
 ### 代码描述
 这两个Python文件围绕**2030年AI对职业自动化影响**展开数据分析与预测建模，核心基于`AI_Impact_on_Jobs_2030.csv`数据集完成以下核心功能：
